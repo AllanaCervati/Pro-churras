@@ -1,0 +1,7 @@
+{
+  "name": "bru-churras",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
