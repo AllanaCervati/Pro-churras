@@ -1,7 +1,8 @@
 {
-  "name": "bru-churras",
+  "name": "pru-churras",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }
